@@ -1,4 +1,4 @@
-fetch("/assets/json/gs.json")
+fetch("https://imadejptr.github.io/thememaker/assets/json/gs.json")
   .then(function (response) {
     return response.json();
   })
