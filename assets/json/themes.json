@@ -1,0 +1,121 @@
+[{
+        "theme": "default",
+        "background": "#00151f",
+        "color": "#c88b3a",
+        "maker": "prkr"
+    },
+    {
+        "theme": "light",
+        "background": "#e2e2e2",
+        "color": "#c88b3a",
+        "maker": "prkr"
+    },
+    {
+        "theme": "emugalaxy",
+        "background": "#000033",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "yoshi",
+        "background": "#6fd251",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "discord",
+        "background": "#7289da",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "ruby",
+        "background": "#7c0b16",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "chaplin",
+        "background": "rgb(59, 59, 59)",
+        "color": "black",
+        "maker": "prkr"
+    },
+    {
+        "theme": "inspect",
+        "background": "#202124",
+        "color": "#f27938",
+        "maker": "prkr"
+    },
+    {
+        "theme": "faded",
+        "background": "linear-gradient(#e66465, #9198e5)",
+        "color": "black",
+        "maker": "prkr"
+    },
+    {
+        "theme": "brazil",
+        "background": "linear-gradient(#FFDC02, #19AE47)",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "xbox",
+        "background": "#107C10",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "theprogrammer",
+        "background": "#8587c8",
+        "color": "#ffdc89",
+        "maker": "prkr"
+    },
+    {
+        "theme": "AJSPACE",
+        "background": "rgb(255 0 233)",
+        "color": "white",
+        "maker": "Ava :)"
+    },
+    {
+        "theme": "Bob :)",
+        "background": "black",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "sponge 🧽",
+        "background": "rgb(102 60 25)",
+        "color": "rgb(218 182 54)",
+        "maker": "prkr"
+    },
+    {
+        "theme": "9000",
+        "background": "rgb(44 21 235)",
+        "color": "rgb(242 192 77)",
+        "maker": "prkr"
+    },
+    {
+        "theme": "/id/Th3Skeleton",
+        "background": "url('https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1004240/776695fcb539b3ed14229791d5c6770e55b2df76.jpg')",
+        "color": "white",
+        "maker": "prkr"
+    },
+    {
+        "theme": "BARF",
+        "background":"#F3DFBF",
+        "color": "#901403",
+        "maker": "Dom :>"
+    },
+    {
+        "theme": "Meatball",
+        "background": "#000000",
+        "color": "#620000",
+        "maker": "when#0200"
+    },
+    {
+        "theme": "Vaporwave",
+        "background": "#300350",
+        "color": "#f9ac53",
+        "maker": "Ponzu#0047"
+    }
+]

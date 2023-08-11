@@ -1,0 +1,37 @@
+[{
+        "name": "Discord",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9kaXNjb3JkLmNvbS8=",
+        "sys": "h",
+        "id": "1",
+        "url": "h",
+        "badge": "APP",
+        "img": "discord-app.jpg"
+    },
+    {
+        "name": "Windows 11 React",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly93aW4xMS5ibHVlZWRnZS5tZS8=",
+        "sys": "h",
+        "id": "2",
+        "url": "h",
+        "badge": "APP",
+        "img": "win11.jpg"
+    },
+    {
+        "name": "Twitter",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly90d2l0dGVyLmNvbS8=",
+        "sys": "h",
+        "id": "3",
+        "url": "h",
+        "badge": "APP",
+        "img": "twitter.png"
+    },
+    {
+        "name": "Twitch",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly93d3cudHdpdGNoLnR2Lw==",
+        "sys": "h",
+        "id": "4",
+        "url": "h",
+        "badge": "APP",
+        "img": "twitch.png"
+    }
+]
