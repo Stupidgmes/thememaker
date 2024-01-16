@@ -2,7 +2,7 @@
 
 With the new addition of themes added to imadejptr, there was only so many things I could make to provide to everyone theme wise. Thats where this tool comes in, which gives you the ability to submit themes that you make!
 ## Where to go?
-Interested in making a theme? Go here => 
+Interested in making a theme? Go here => https://imadejptr.github.io/thememaker/
 Also if you're interested to see who would see the theme, then go here > https://imadejptr.com
 ## Discord
 Consider joining the discord...you won't regret it
