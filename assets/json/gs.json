@@ -196,7 +196,7 @@
         "source": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonGlazed"
     },
     {
-        "name": "Super Mario Bros 3mix (HACK)",
+        "name": "Super Mario Bros 3mix [HACK]",
         "g": "Super-Mario-Bros-3mix",
         "sys": "nes",
         "id": "15",
@@ -280,7 +280,7 @@
         "source": "https://www.mobygames.com/game/nes/kung-fu-master"
     },
     {
-        "name": "Marios Moon Adventure (SMB HACK)",
+        "name": "Marios Moon Adventure [HACK]",
         "g": "M-Moon-Adventure",
         "sys": "nes",
         "id": "21",
@@ -294,7 +294,7 @@
         "source": "https://www.romhacking.net/hacks/126/"
     },
     {
-        "name": "Earthbound",
+        "name": "EarthBound",
         "g": "EarthBound",
         "sys": "snes",
         "id": "22",
@@ -322,7 +322,7 @@
         "source": "https://www.mobygames.com/game/snes/f-zero"
     },
     {
-        "name": "Mario Kart R (HACK)",
+        "name": "Mario Kart R [HACK]",
         "g": "Mario-Kart-R",
         "sys": "snes",
         "id": "24",
@@ -378,7 +378,7 @@
         "source": "https://www.mobygames.com/game/super-mario-world"
     },
     {
-        "name": "Super Spongebob Kart (HACK)",
+        "name": "Super Spongebob Kart [HACK]",
         "g": "super-spongebob-kart",
         "sys": "snes",
         "id": "28",
@@ -659,7 +659,7 @@
         "source": "https://jptragar.glitch.me/"
     },
     {
-        "name": "NBA JAM: TE 2K22 (HACK)",
+        "name": "NBA JAM: TE 2K22 [HACK]",
         "g": "NBAJTE22",
         "sys": "snes",
         "id": "48",
@@ -675,7 +675,7 @@
     {
         "name": "1v1.LOL",
         "g": "1v1",
-        "gameurl": "/public/xml/1v1.html",
+        "gameurl": "/assets/xml/1v1.html",
         "sys": "h",
         "id": "49",
         "url": "h",
@@ -970,7 +970,7 @@
         "source": "https://www.mobygames.com/game/n64/diddy-kong-racing"
     },
     {
-        "name": "Ice Hockey: LQL Edition",
+        "name": "Ice Hockey: LQL Edition [HACK]",
         "g": "ice-hockey-lql",
         "sys": "nes",
         "id": "70",
@@ -998,8 +998,8 @@
         "source": "https://g55.co/games/call-of-ops-2/"
     },
     {
-        "name": "Slope",
-        "g": "slope",
+        "name": "Slope v1.2",
+        "g": "slope-v12",
         "sys": "u",
         "id": "72",
         "url": "u",
@@ -1530,7 +1530,7 @@
         "source": "https://www.mobygames.com/game/pokmon-leafgreen-version"
     },
     {
-        "name": "Pokemon Light Platinum",
+        "name": "Pokemon Light Platinum [HACK]",
         "g": "Pokemon%20Light%20Platinum",
         "sys": "gba",
         "id": "109",
@@ -1544,7 +1544,7 @@
         "source": "https://www.romhacking.net/hacks/1902"
     },
     {
-        "name": "Pokemon Liquid Crystal",
+        "name": "Pokemon Liquid Crystal [HACK]",
         "g": "Pokemon%20Liquid%20Crystal",
         "sys": "gba",
         "id": "110",
@@ -1586,7 +1586,7 @@
         "source": "https://www.mobygames.com/game/gameboy-advance/pokmon-sapphire-version"
     },
     {
-        "name": "Pokemon X&Y",
+        "name": "Pokemon X&Y [HACK]",
         "g": "Pokemon%20x%20y",
         "sys": "gba",
         "id": "113",
@@ -1600,7 +1600,7 @@
         "source": "https://pokemonromhack.com/pokemon-x-y-gba.html"
     },
     {
-        "name": "Pokemon Radical Red",
+        "name": "Pokemon Radical Red [HACK]",
         "g": "Radical%20Red",
         "sys": "gba",
         "id": "114",
@@ -1894,7 +1894,7 @@
         "source": "https://www.mobygames.com/game/genesis/mortal-kombat-3"
     },
     {
-        "name": "Mortal Kombat II Unlimited",
+        "name": "Mortal Kombat II Unlimited [HACK]",
         "g": "Mortal%20Kombat%20II%20Unlimited",
         "sys": "segaMD",
         "id": "135",
@@ -1992,7 +1992,7 @@
         "source": "https://www.mobygames.com/game/genesis/Samurai-Shodown"
     },
     {
-        "name": "Sonic Classic Heroes",
+        "name": "Sonic Classic Heroes [HACK]",
         "g": "scheroes",
         "sys": "segaMD",
         "id": "142",
@@ -2006,7 +2006,7 @@
         "source": "https://www.romhacking.net/hacks/1038/"
     },
     {
-        "name": "Sonic - Mega Mix",
+        "name": "Sonic - Mega Mix [HACK]",
         "g": "Sonic%20-%20Mega%20Mix",
         "sys": "segaMD",
         "id": "143",
@@ -2048,7 +2048,7 @@
         "source": "https://www.mobygames.com/game/genesis/sonic-knuckles"
     },
     {
-        "name": "Sonic Legacy",
+        "name": "Sonic Legacy [HACK]",
         "g": "Sonic%20Legacy",
         "sys": "segaMD",
         "id": "146",
@@ -2132,7 +2132,7 @@
         "source": "https://www.mobygames.com/game/genesis/ultimate-mortal-kombat-3"
     },
     {
-        "name": "Brutal Mario",
+        "name": "Brutal Mario [HACK]",
         "g": "brutal%20mario",
         "sys": "snes",
         "id": "152",
@@ -2258,7 +2258,7 @@
         "source": "https://forum.nhl94.com/index.php?/topic/20525-all-time-greatest-team-rosters-release/"
     },
     {
-        "name": "Super Mario World - Sonic Edition",
+        "name": "Super Mario World - Sonic Edition [HACK]",
         "g": "sonic-snes",
         "sys": "snes",
         "id": "161",
@@ -2314,7 +2314,7 @@
         "source": "https://www.mobygames.com/game/snes/super-mario-all-stars"
     },
     {
-        "name": "Super Mario Odyssey - A Journey Through Time and Space",
+        "name": "Super Mario Odyssey - A Journey Through Time and Space [HACK]",
         "g": "Super%20Mario%20Odyssey%20-%20A%20Journey%20Through%20Time%20and%20Space",
         "sys": "snes",
         "id": "165",
@@ -2342,7 +2342,7 @@
         "source": "https://www.mobygames.com/game/snes/super-bomberman-4"
     },
     {
-        "name": "Super Luigi Land",
+        "name": "Super Luigi Land [HACK]",
         "g": "super-luigi-land",
         "sys": "snes",
         "id": "167",
@@ -2678,7 +2678,7 @@
         "source": "https://www.mobygames.com/game/nes/california-games"
     },
     {
-        "name": "Castlevania - Blood Moon",
+        "name": "Castlevania - Blood Moon [HACK]",
         "g": "Castlevania%20-%20Blood%20Moon",
         "sys": "nes",
         "id": "191",
@@ -2720,7 +2720,7 @@
         "source": "https://www.mobygames.com/game/nes/castlevania-iii-draculas-curse-"
     },
     {
-        "name": "Castlevania Retold",
+        "name": "Castlevania Retold [HACK]",
         "g": "Castlevania%20Retold",
         "sys": "nes",
         "id": "194",
@@ -2818,7 +2818,7 @@
         "source": "https://www.mobygames.com/game/nes/mega-man-6"
     },
     {
-        "name": "Mega Man Ultra",
+        "name": "Mega Man Ultra [HACK]",
         "g": "Mega%20Man%20Ultra",
         "sys": "nes",
         "id": "201",
@@ -2832,7 +2832,7 @@
         "source": "https://www.romhacking.net/hacks/132/"
     },
     {
-        "name": "Metroid Eternal Darkness",
+        "name": "Metroid Eternal Darkness [HACK]",
         "g": "metroid%20eternal%20darkness",
         "sys": "nes",
         "id": "202",
@@ -2860,7 +2860,7 @@
         "source": "https://www.mobygames.com/game/nes/Popeye"
     },
     {
-        "name": "Toads Treasure Quest",
+        "name": "Toads Treasure Quest [HACK]",
         "g": "Toads%20Treasure%20Quest",
         "sys": "nes",
         "id": "204",
@@ -2874,7 +2874,7 @@
         "source": "https://www.romhacking.net/hacks/191/"
     },
     {
-        "name": "Super Mario Ultimate",
+        "name": "Super Mario Ultimate [HACK]",
         "g": "Super%20Mario%20Ultimate",
         "sys": "nes",
         "id": "205",
@@ -3160,7 +3160,7 @@
         "source": "https://gamedistribution.com/games/run-boys-multiplayer"
     },
     {
-        "name": "Mario Kart 64: Amped Up",
+        "name": "Mario Kart 64: Amped Up [HACK]",
         "g": "mk-amped-up",
         "sys": "n64",
         "id": "225",
@@ -3174,7 +3174,7 @@
         "source": "https://gbatemp.net/threads/mario-kart-64-amped-up-version-2-0-release.582078/"
     },
     {
-        "name": "Smash Remix",
+        "name": "Smash Remix [HACK]",
         "g": "smashremix",
         "sys": "n64",
         "id": "226",
@@ -3484,12 +3484,12 @@
     {
         "name": "Bubble Bobble",
         "g": "bublbobl",
-        "sys": "mame2003",
+        "sys": "mame",
         "id": "248",
         "url": "c",
         "badge": "ARCADE",
         "img": "png",
-        "mame": "false",
+        "mame": "5|0",
         "year": "1986",
         "pub": "Taito",
         "desc": "Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...",
@@ -3715,10 +3715,9 @@
     {
         "name": "Pixel Foosball",
         "g": "pixelfoosball",
-        "gameurl": "/u-frame?g=pixelfoosball",
-        "sys": "h",
+        "sys": "u",
         "id": "264",
-        "url": "h",
+        "url": "u",
         "badge": "HTML5",
         "img": "png",
         "mame": "false",
@@ -5029,7 +5028,7 @@
         "source": "https://www.mobygames.com/game/38418/mighty-morphin-power-rangers-the-movie/"
     },
     {
-        "name": "Pokémon Blue Version",
+        "name": "Pokemon Blue Version",
         "g": "pokemon-blue-version",
         "sys": "gb",
         "id": "356",
@@ -5043,7 +5042,7 @@
         "source": "https://www.mobygames.com/game/4397/pokemon-blue-version/"
     },
     {
-        "name": "Pokémon Red Version",
+        "name": "Pokemon Red Version",
         "g": "pokemon-red-version",
         "sys": "gb",
         "id": "357",
@@ -5057,7 +5056,7 @@
         "source": "https://www.mobygames.com/game/5129/pokemon-red-version/"
     },
     {
-        "name": "Pokémon Green Version",
+        "name": "Pokemon Green Version",
         "g": "pokemon-green",
         "sys": "gb",
         "id": "358",
@@ -5239,7 +5238,7 @@
         "source": "https://www.mobygames.com/game/40621/plants-vs-zombies/"
     },
     {
-        "name": "Pokémon Diamond Version",
+        "name": "Pokemon Diamond Version",
         "g": "pokediam",
         "sys": "nds",
         "id": "371",
@@ -5253,7 +5252,7 @@
         "source": "https://www.mobygames.com/game/40621/plants-vs-zombies/"
     },
     {
-        "name": "Pokémon Black Version 2",
+        "name": "Pokemon Black Version 2",
         "g": "pokemon---black-version-2",
         "sys": "nds",
         "id": "372",
@@ -5267,7 +5266,7 @@
         "source": "https://www.mobygames.com/game/59629/pokemon-black-version-2/"
     },
     {
-        "name": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "name": "Pokemon Mystery Dungeon: Explorers of Sky",
         "g": "pokemon-mystery-dungeon---explorers-of-sky",
         "sys": "nds",
         "id": "373",
@@ -5281,7 +5280,7 @@
         "source": "https://www.mobygames.com/game/45482/pokemon-mystery-dungeon-explorers-of-sky/"
     },
     {
-        "name": "Pokémon Pearl Version",
+        "name": "Pokemon Pearl Version",
         "g": "pokemon-pearl-version",
         "sys": "nds",
         "id": "374",
@@ -5295,7 +5294,7 @@
         "source": "https://www.mobygames.com/game/27755/pokemon-pearl-version/"
     },
     {
-        "name": "Pokémon Ranger",
+        "name": "Pokemon Ranger",
         "g": "pokemon-ranger",
         "sys": "nds",
         "id": "375",
@@ -6471,7 +6470,7 @@
         "source": "https://www.mobygames.com/game/3584/bomberman-64/"
     },
     {
-        "name": "Pokémon Snap",
+        "name": "Pokemon Snap",
         "g": "pokemon-snap",
         "sys": "n64",
         "id": "459",
@@ -6485,7 +6484,7 @@
         "source": "https://www.mobygames.com/game/4681/pokemon-snap/"
     },
     {
-        "name": "Pokémon Stadium",
+        "name": "Pokemon Stadium",
         "g": "pokemon-stadium",
         "sys": "n64",
         "id": "460",
@@ -6499,7 +6498,7 @@
         "source": "https://www.mobygames.com/game/6525/pokemon-stadium/"
     },
     {
-        "name": "Pokémon Stadium 2",
+        "name": "Pokemon Stadium 2",
         "g": "pokemon-stadium-2",
         "sys": "n64",
         "id": "461",
@@ -6709,7 +6708,7 @@
         "source": "https://www.mobygames.com/game/22884/need-for-speed-underground-2/"
     },
     {
-        "name": "Pokémon Pinball: Ruby & Sapphire",
+        "name": "Pokemon Pinball: Ruby & Sapphire",
         "g": "pokemon-pinball---ruby--sapphire",
         "sys": "gba",
         "id": "476",
@@ -6779,7 +6778,7 @@
         "source": "https://www.mobygames.com/game/29870/mother-3/"
     },
     {
-        "name": "Pokémon Mystery Dungeon: Red Rescue Team",
+        "name": "Pokemon Mystery Dungeon: Red Rescue Team",
         "g": "pokemon-mystery-dungeon---red-rescue-team",
         "sys": "gba",
         "id": "481",
@@ -7198,7 +7197,7 @@
         "source": "https://gamedistribution.com/games/vex-7"
     },
     {
-        "name": "Ice Hockey: Blue Ice Edition",
+        "name": "Ice Hockey: Blue Ice Edition [HACK]",
         "g": "blueice",
         "sys": "nes",
         "id": "509",
@@ -7955,7 +7954,7 @@
         "source": "https://www.mobygames.com/game/10065/godzilla-monster-of-monsters/"
     },
     {
-        "name": "Blue Mario Bros. 3",
+        "name": "Blue Mario Bros. 3 [HACK]",
         "g": "bluebros",
         "sys": "nes",
         "id": "563",
@@ -7969,7 +7968,7 @@
         "source": "https://www.romhacking.net/hacks/193/"
     },
     {
-        "name": "Pokémon SoulSilver Version",
+        "name": "Pokemon SoulSilver Version",
         "g": "soulsilver",
         "sys": "nds",
         "id": "564",
@@ -8081,7 +8080,7 @@
         "source": "https://www.mobygames.com/game/89158/mlb-power-pros-2008/"
     },
     {
-        "name": "Pokémon Conquest",
+        "name": "Pokemon Conquest",
         "g": "pkconquest",
         "sys": "nds",
         "id": "572",
@@ -8212,7 +8211,7 @@
     {
         "name": "Roblox",
         "g": "xolbor",
-        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9pbWFkZWpwdHIuZ2l0aHViLmlvL25nZy9yb2Jsb3gv",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9zMmc3Lm9ucmVuZGVyLmNvbS9wbGF5L3JvYmxveC1jb3Jwb3JhdGlvbi81MzQ5L3JvYmxveA==",
         "sys": "h",
         "id": "581",
         "url": "h",
@@ -8283,7 +8282,7 @@
         "source": "https://www.mobygames.com/game/11538/ristar/"
     },
     {
-        "name": "Pokémon Fusion 3",
+        "name": "Pokemon Fusion 3 [HACK]",
         "g": "fusion3",
         "sys": "gba",
         "id": "586",
@@ -8297,7 +8296,7 @@
         "source": "https://www.youtube.com/watch?v=WRuVze7FDOo"
     },
     {
-        "name": "Pokémon Unbound",
+        "name": "Pokemon Unbound [HACK]",
         "g": "unboundhack",
         "sys": "gba",
         "id": "587",
@@ -8339,7 +8338,7 @@
         "source": "https://www.mobygames.com/game/139/dig-dug/"
     },
     {
-        "name": "Kaizo Mario World",
+        "name": "Kaizo Mario World [HACK]",
         "g": "kaizo",
         "sys": "snes",
         "id": "590",
@@ -8381,7 +8380,7 @@
         "source": "https://gamedistribution.com/games/blocky-gun-paintball-3"
     },
     {
-        "name": "Tecmo Super Bowl: NCAA 2K23 Edition",
+        "name": "Tecmo Super Bowl: NCAA 2K23 Edition [HACK]",
         "g": "ncaa2k23",
         "sys": "nes",
         "id": "593",
@@ -8397,7 +8396,7 @@
     {
         "name": "Bowmaster",
         "g": "bowm",
-        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9pbWFkZWpwdHIuZ2l0aHViLmlvL25nZy9ib3dtLw==",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9zMmc3Lm9ucmVuZGVyLmNvbS9wbGF5L3BsYXlnZW5kYXJ5LWxpbWl0ZWQvNTM5MS9ib3dtYXN0ZXJz",
         "sys": "h",
         "id": "594",
         "url": "h",
@@ -8425,7 +8424,7 @@
         "source": "https://sideswipe.rocketleague.com/"
     },
     {
-        "name": "Pokémon Renegade Platinum",
+        "name": "Pokemon Renegade Platinum [HACK]",
         "g": "reneplat",
         "sys": "nds",
         "id": "596",
@@ -8439,7 +8438,7 @@
         "source": "https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/"
     },
     {
-        "name": "Newer Super Mario Bros",
+        "name": "Newer Super Mario Bros [HACK]",
         "g": "nrsmbds",
         "sys": "nds",
         "id": "597",
@@ -8530,7 +8529,7 @@
         "id": "603",
         "url": "c",
         "badge": "32X",
-        "img": "png",
+        "img": "jpg",
         "mame": "false",
         "year": "1994",
         "pub": "Atari Games Corporation",
@@ -8566,5 +8565,724 @@
         "pub": "linklikebr",
         "desc": "Monkey Mart Online is a management game. You control monkey characters who have just built a supermarket. Fill the shelves with bananas, grapes, dairy and more. The customers will pick them up and wait for you at the cashier counter. You can upgrade your character, unlock new workstations or even recruit other workers to help you.",
         "source": "https://appagg.com/android-games/simulation/monkey-mart-on-line-37997429.html?hl=en"
+    },
+    {
+        "name": "Yu-Gi-Oh!: Forbidden Memories",
+        "g": "yugioh",
+        "sys": "psx",
+        "id": "606",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1999",
+        "pub": "Konami",
+        "desc": "Based on the popular anime series, Yu-Gi-Oh!: Forbidden Memories casts you as on of Yugi's ancestors who must travel to ancient Egypt and solve the mysteries of the Shadow Game and the seven magical totems. You must travel throughout the land talking to townspeople, performing tasks and of course, duel several opponents in order to gather up knowledge of impending doom threatening your kingdom.",
+        "source": "https://www.mobygames.com/game/6324/yu-gi-oh-forbidden-memories/"
+    },
+    {
+        "name": "Metal Slug X",
+        "g": "metalslugx",
+        "sys": "psx",
+        "id": "607",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "2001",
+        "pub": "SNK Corporation",
+        "desc": "Metal Slug X is an enhanced version of Metal Slug 2: Super Vehicle - 001/II.",
+        "source": "https://www.mobygames.com/game/4048/metal-slug-x/"
+    },
+    {
+        "name": "Grand Theft Auto 2",
+        "g": "gta2",
+        "sys": "psx",
+        "id": "608",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1999",
+        "pub": "Rockstar Games",
+        "desc": "Lie, cheat, and steal your way through three districts of a huge city in the follow-up to Grand Theft Auto. Earn the respect of 7 different gangs as you demolish the town in your attempt to make lots of cash.",
+        "source": "https://www.mobygames.com/game/1097/grand-theft-auto-2/"
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2",
+        "g": "tonyhawk2",
+        "sys": "psx",
+        "id": "609",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "2000",
+        "pub": "Activision",
+        "desc": "The sequel to Tony Hawk's Pro Skater adds many new tricks, while retaining those from the original, and a complete roster of the greatest skaters worldwide. Among the new tricks is the 'manual', which allows the player character to balance on two wheels. There are also more options for scoring high-trick combos. Trick combinations can also be edited and customized. It is possible to visit some of the most popular skate parks in the world, or create own areas and share them with other players. Players can also create their own skaters, with a choice of clothing and official skateboards.",
+        "source": "https://www.mobygames.com/game/2575/tony-hawks-pro-skater-2/"
+    },
+    {
+        "name": "Final Fantasy VII",
+        "g": "ffvii",
+        "sys": "psx",
+        "id": "610",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1997",
+        "pub": "Square Soft",
+        "desc": "The seventh installment of the Final Fantasy series takes place in a post-modern, steampunk, sci-fi world where high technology reigns and where robots and bio-engineered mutants co-exist with humans and dragons.",
+        "source": "https://www.mobygames.com/game/858/final-fantasy-vii/"
+    },
+    {
+        "name": "Metal Gear Solid",
+        "g": "metalgearsolid",
+        "sys": "psx",
+        "id": "611",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1998",
+        "pub": "Konami",
+        "desc": "Metal Gear Solid is a sequel to Metal Gear 2: Solid Snake. After the tragic confrontation with Big Boss, the hero, special agent Solid Snake, decided to retire and has since then lived in a secluded region in Alaska. But the US government recruits him once again for a dangerous mission. The members of Foxhound, a renegade special forces unit, threaten to use a devastating nuclear weapon if the government doesn't hand them the mortal remains of Big Boss, their former commander. Foxhound is now led by a talented, ambitious young man with the codename Liquid Snake. Knowing that the visual resemblance between this new terrorist mastermind and himself can not be coincidental, Solid Snake agrees to infiltrate the new Foxhound base, destroy the unknown nuclear weapon, and find the truth about his own identity.",
+        "source": "https://www.mobygames.com/game/2511/metal-gear-solid/"
+    },
+    {
+        "name": "Castlevania: Symphony of the Night",
+        "g": "castlevaniasn",
+        "sys": "psx",
+        "id": "612",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1997",
+        "pub": "Konami",
+        "desc": "Symphony of the Night is a direct sequel to Rondo of Blood. Unlike the previous installments of the series, the game is set in a castle which the player can explore freely with many different paths, although often items in certain areas need to be found that will allow passage to others. The action-based gameplay incorporates now strong RPG elements. The hero receives experience points for defeating enemies, gains levels, and becomes more powerful. There is also money to be found in the game, and various accessories to buy. In a separate screen, players need to equip attack weapons, shields, and other items. Magic plays an important role, as well as secondary weapons and a large amount of 'special moves' that are executed similar to advanced one-on-one fighting games.",
+        "source": "https://www.mobygames.com/game/3739/castlevania-symphony-of-the-night/"
+    },
+    {
+        "name": "Mega Man X4",
+        "g": "megamanx4",
+        "sys": "psx",
+        "id": "613",
+        "url": "c",
+        "badge": "PS1",
+        "img": "png",
+        "mame": "false",
+        "year": "1997",
+        "pub": "Capcom",
+        "desc": "Mega Man X, the reploid leader of the 17th unit Maverick Hunters, and his best friend Zero have to stop a reploid rebellion. Each of them gets involved in a different way and you can play as either character through the parallel stories.",
+        "source": "https://www.mobygames.com/game/3136/mega-man-x4/"
+    },
+    {
+        "name": "The Legend of Zelda: Triforce of the Gods",
+        "g": "zeldatrigods",
+        "sys": "nes",
+        "id": "614",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "2004",
+        "pub": "Fuzhou Waixing Computer Science & Technology Co.,LTD",
+        "desc": "The game plays similar to the original, although more limited. For example, the player can't move diagonally and the sword's range is marginally more limited than in the original. Some of the elements in the game (such as the bosses) were changed, likely due to hardware constraints. There's new original music featured in the game (without counting the title theme, which is extended), which changes in a set order every time you move to a different screen.",
+        "source": "https://bootleggames.fandom.com/wiki/Legend_Of_Zelda:_A_Link_to_The_Past_(Famicom)"
+    },
+    {
+        "name": "NBA Live '95",
+        "g": "nba-live-95",
+        "sys": "snes",
+        "id": "615",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1994",
+        "pub": "EA Sports",
+        "desc": "Manage over 300 players using the General Manager feature, new in this edition. Statistics for each player and team are saved. View players and teams side-by-side to compare stats and other information. You can trade any player in the league.",
+        "source": "https://www.mobygames.com/game/2507/nba-live-95/"
+    },
+    {
+        "name": "Tactics Ogre",
+        "g": "tactics-ogre-let-us-cling-together",
+        "sys": "snes",
+        "id": "616",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1995",
+        "pub": "Quest Corporation",
+        "desc": "Tactics Ogre is a 3D isometric tactical role-playing game. The player starts out with a band of troops, builds a small army and fights many battles with choices to make in between, that will determine which one of the eight possible endings will be reached in a non-linear storyline. The player has the option to recruit characters, control individual equipment of each character, with over six male character classes, six female character classes, three demi-human classes, and more. It is also possible to train at safe locations to prepare the army before the next battle or storyline advancement.",
+        "source": "https://www.mobygames.com/game/8367/tactics-ogre/"
+    },
+    {
+        "name": "Rock 'N Roll Racing",
+        "g": "rock-n-roll-racing",
+        "sys": "snes",
+        "id": "617",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1995",
+        "pub": "Interplay Productions",
+        "desc": "Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car. The soundtrack features famous rock tracks such as 'Born to Be Wild,' 'Bad to the Bone,' 'The Peter Gunn Theme,' 'Highway Star' and 'Paranoid.'",
+        "source": "https://www.mobygames.com/game/11544/rock-n-roll-racing/"
+    },
+    {
+        "name": "Summer Carnival '92: Recca",
+        "g": "recca",
+        "sys": "nes",
+        "id": "618",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "1992",
+        "pub": "naxat Co.",
+        "desc": "Recca is a vertical-scrolling sci-fi shooter in which you pilot a lone starfighter sent to obliterate the alien armada invasion that looms over the horizon. ",
+        "source": "https://www.mobygames.com/game/29521/summer-carnival-92-recca/"
+    },
+    {
+        "name": "Bucky O'Hare",
+        "g": "bucky-ohare",
+        "sys": "nes",
+        "id": "619",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "1992",
+        "pub": "Konami",
+        "desc": "Captain Bucky O'Hare and his loyal crew - Blinky, Deadeye, Jenny, and Willy - fight to save the Aniverse from the scourge of the Toad Armada. That is until Bucky's ship is attacked and his crew taken prisoner. Now a lone bunny on a mission, Bucky must fight to rescue his comrades from four hostile planets and then confront the Air Marshall on his flagship.",
+        "source": "https://www.mobygames.com/game/10573/bucky-ohare/"
+    },
+    {
+        "name": "Little Samson",
+        "g": "little-samson",
+        "sys": "nes",
+        "id": "620",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "1992",
+        "pub": "Taito Corporation",
+        "desc": "Ta-Keed, the Prince of Darkness, has managed to escape from his supernatural penitentiary where he has had centuries to plot exactly how he will take revenge on those that locked him away. Emperor Hans sends his troops to deal with this threat, but they are no match for the ultimate evil one. As an alternative, the emperor summons the bearers of 4 Magical Bells. These 4 adventurers must make their way to the castle and work as a team if they are to destroy Ta-Keed.",
+        "source": "https://www.mobygames.com/game/30308/little-samson/"
+    },
+    {
+        "name": "Lightening Force: Quest for the Darkstar",
+        "g": "lightening-force-quest-for-the-darkstar",
+        "sys": "segaMD",
+        "id": "621",
+        "url": "c",
+        "badge": "SEGA",
+        "img": "png",
+        "mame": "false",
+        "year": "1992",
+        "pub": "SEGA",
+        "desc": "The Galaxy Federation has defeated the forces of the Orn Empire. But the former allies of Orn have united into a single powerful army known as Vios. The Galaxy Federation attacks their headquarters on the planet Aceria, but loses the battle. They then develop a new fighter spacecraft, the FIRE LEO-04 Rynex, and send a trained pilot to neutralize the Vios.",
+        "source": "https://www.mobygames.com/game/6640/lightening-force-quest-for-the-darkstar/"
+    },
+    {
+        "name": "Alien Solider",
+        "g": "alien-solider",
+        "sys": "segaMD",
+        "id": "622",
+        "url": "c",
+        "badge": "SEGA",
+        "img": "png",
+        "mame": "false",
+        "year": "1995",
+        "pub": "SEGA",
+        "desc": "Alien Soldier is a side-scrolling action game in which the player takes the role of Epsilon-Eagle, the former leader of the Scarlet mutant group. The mutants are now lead by the evil Xi-Tiger who had turned them to terrorism, and one of their goals is to kill Epsilon-Eagle...",
+        "source": "https://www.mobygames.com/game/14130/alien-soldier/"
+    },
+    {
+        "name": "Landstalker",
+        "g": "landstalker",
+        "sys": "segaMD",
+        "id": "623",
+        "url": "c",
+        "badge": "SEGA",
+        "img": "png",
+        "mame": "false",
+        "year": "1992",
+        "pub": "SEGA",
+        "desc": "Landstalker is an isometric action game with platforming, puzzle-solving, and light role-playing elements. Much of the game is spent in dungeon-like hostile areas, where Nigel must often fight enemies, jump, climb ladders and ropes, and throw objects to overcome obstacles and solve puzzles. Nigel can acquire better weapons and armor, as well as items that permanently increase his hit points and strength. In towns it is possible to talk to non-player characters and buy items in shops. There are optional quests in the game, which may reward the player with attribute-increasing items.",
+        "source": "https://www.mobygames.com/game/6955/landstalker/"
+    },
+    {
+        "name": "XXXX [HACK]",
+        "g": "XXXX",
+        "sys": "nes",
+        "id": "624",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "2003",
+        "pub": "79",
+        "desc": "This is one of those rare SMB hacks out there that have a lot of replay value. The object is to find stars in order to reach Bowser’s castle, this is a fun hack that will most definitely keep you busy. And the music in this hack is really good too. The spikes can kill you in an instant, so be careful. If you like SMB hacks then this game is right up your alley…",
+        "source": "https://www.romhacking.net/hacks/104/"
+    },
+    {
+        "name": "Pokemon Ultra Violet Version [HACK]",
+        "g": "UltraViolet",
+        "sys": "gba",
+        "id": "625",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2013",
+        "pub": "LocksmithArmy",
+        "desc": "Pokemon Ultra Violet Version is a hack of the GameBoy Advance game Pokemon Fire Red Version. This new game has been altered in many ways to make the game more enjoyable, but it still has the same general design and story as the original Nintendo release. Among many other improvements, it has been made so that 1 player with 1 gamesave can play through the entire game and actually catch all of the Pokemon from the first 3 generations.",
+        "source": "https://www.romhacking.net/hacks/1156/"
+    },
+    {
+        "name": "Super Go-Kart Racing [HACK]",
+        "g": "Super%20Go-Kart%20Racing",
+        "sys": "snes",
+        "id": "626",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "2023",
+        "pub": "DarthMarino",
+        "desc": "Super Mario Kart began development as a straight-forward go-kart racing game before switching directions and adding elements from the Mushroom Kingdom. Super Go-Kart Racing aims to “recreate” what the original intention of the game was. There are no weapons, coins or jumps. It’s just no-frills racing across 20 brand-new tracks set in realistic go-kart race locations. All of the music and many of the sounds have been changed to create a different experience.",
+        "source": "https://www.romhacking.net/hacks/7542/"
+    },
+    {
+        "name": "Super Mario Deluxe [HACK]",
+        "g": "SMD",
+        "sys": "snes",
+        "id": "627",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "2005",
+        "pub": "peter_ac",
+        "desc": "It’s an original and refreshing take to be able to play such a classic with the up to date Super Mario World game engine. While it is similar to Super Mario All Stars, it’s still very different. Everything is changed in this hack. There are new over worlds, some additional custom levels, changed tunes and more!",
+        "source": "https://www.romhacking.net/hacks/66/"
+    },
+    {
+        "name": "Ball Mayhem!",
+        "g": "ball-mayhem",
+        "sys": "u",
+        "id": "628",
+        "url": "u",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2019",
+        "pub": "VooDoo",
+        "desc": "Enter the stadium and face the other teams in a fierce battle. Tackle everyone in sight to move forward and score a Touchdown! Show them who is the best team in the world!",
+        "source": "https://play.google.com/store/apps/details?id=com.clement.ballmayhem&hl=en&gl=US"
+    },
+    {
+        "name": "skribbl.io",
+        "g": "skrib",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9za3JpYmJsLmlv",
+        "sys": "h",
+        "id": "629",
+        "url": "h",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2017",
+        "pub": "ticedev",
+        "desc": "skribbl.io is a free online multiplayer drawing and guessing pictionary game. A normal game consists of a few rounds, where every round a player has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of the game will then be crowned as the winner!",
+        "source": "https://skribbl.io"
+    },
+    {
+        "name": "Animaniacs",
+        "g": "animaniacs",
+        "sys": "snes",
+        "id": "630",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1994",
+        "pub": "Konami",
+        "desc": "Animaniacs is a platform game where you control the three Animaniacs, Yakko, Wakko and Dot. Players can cycle between their current Animaniac by using R Button, and in addition to jumping, the player can stack the Animaniacs on top of each other to reach places they couldn't on their own. The Animaniacs can pick up and throw small objects to attack, as well as dash to break objects and dodge enemies. Larger objects can be pushed, to access higher areas, or sometimes to reveal secrets.",
+        "source": "https://www.mobygames.com/game/31048/animaniacs/"
+    },
+    {
+        "name": "Sonic Battle",
+        "g": "sonic-battle",
+        "sys": "gba",
+        "id": "631",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2003",
+        "pub": "SEGA",
+        "desc": "Sonic Battle is a fast paced pseudo-fighting game, akin to Super Smash Brothers from Nintendo. Rather than being 3D side-scrolling, this game employs a 3D isometric view- not a static, sprite-based field though, it is comprised of actual texture-mapped polygons. The character sprites are 2D though, and while you think it wouldn't work- it does :P",
+        "source": "https://www.mobygames.com/game/11744/sonic-battle/"
+    },
+    {
+        "name": "Spaceplan (Prototype)",
+        "g": "sp",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cDovL2pob2xsYW5kcy5jby51ay9zcGFjZXBsYW4v",
+        "sys": "h",
+        "id": "632",
+        "url": "h",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2017",
+        "pub": "Jake Hollands",
+        "desc": "an experimental piece of interaction based partly on a total misunderstanding of Stephen Hawking’s A Brief History of Time.",
+        "source": "http://spaceplan.click/"
+    },
+    {
+        "name": "Bleach: The 3rd Phantom",
+        "g": "bleach-3p",
+        "sys": "nds",
+        "id": "633",
+        "url": "c",
+        "badge": "NDS",
+        "img": "png",
+        "mame": "false",
+        "year": "2008",
+        "pub": "SEGA",
+        "desc": "Bleach: The 3rd Phantom is a turn-based strategy game based on the anime series Bleach. This game tells a spin-off story: while there are many familiar faces present, the protagonists Fujimaru and Matsuri Kudo are new characters. Both join the Soul Society, an organization facing the soul-consuming Hollows, and become involved in a story of betrayal and revenge. Depending on the chosen character, there are minor differences in the story which is mostly told in dialogue windows.",
+        "source": "https://www.mobygames.com/game/71264/bleach-the-3rd-phantom/"
+    },
+    {
+        "name": "Inazuma Eleven 2: Blizzard",
+        "g": "inazuma112",
+        "sys": "nds",
+        "id": "634",
+        "url": "c",
+        "badge": "NDS",
+        "img": "png",
+        "mame": "false",
+        "year": "2009",
+        "pub": "SEGA",
+        "desc": "Inazuma Eleven 2: Blizzard is a role-playing sports game that was released for Nintendo DS released alongside Inazuma Eleven 2: Firestorm in Europe and Japan. In the game the player takes control of Mark Evans a football keeper, who plays for his school football team, winner of the last Football Frontier. An alien football team, the Gemini Storm, attacks their school. Now Mark Evans and his team have to defend against this alien attack. In the game the player can visit different locations and play matches of football against different teams. The matches are controlled with the stylus, and when one of the player from the team runs into an opposing player, a duel starts which determines the possession of the ball. Unique to Blizzard is the Icy Diamond Dust team, Marks romance with Silvia and some different special moves.",
+        "source": "https://www.mobygames.com/game/146098/inazuma-eleven-2-blizzard/"
+    },
+    {
+        "name": "Tomodachi Collection",
+        "g": "tomodachi",
+        "sys": "nds",
+        "id": "635",
+        "url": "c",
+        "badge": "NDS",
+        "img": "png",
+        "mame": "false",
+        "year": "2009",
+        "pub": "Nintendo",
+        "desc": "Tomodachi Collection is a simulation game sharing many similarities with The Sims and Animal Crossing. The featured protagonist happens to be your own personally designed Mii interacting with several Miis that populate the city. The population of Miis cohabiting the city are either friends you collected by entering their friend codes, or randomly generated characters courtesy of the computer. Fortunately, the game allows easy transfer of all your friend Miis from the Wii to your Nintendo DS.",
+        "source": "https://www.mobygames.com/game/54402/tomodachi-collection/"
+    },
+    {
+        "name": "Donkey Kong 3",
+        "g": "dk3",
+        "sys": "nes",
+        "id": "636",
+        "url": "c",
+        "badge": "NES",
+        "img": "png",
+        "mame": "false",
+        "year": "1984",
+        "pub": "Nintendo",
+        "desc": "As Stanley the Bugman, players are positioned under Donkey Kong, who has taken over a multi-level greenhouse. Stanley's goal is to remove Donkey Kong from the greenhouse, but the big ape isn't willing to leave without a fight.",
+        "source": "https://www.mobygames.com/game/7338/donkey-kong-3/"
+    },
+    {
+        "name": "Diep.io",
+        "g": "diep",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cDovL2RpZXAuaW8=",
+        "sys": "h",
+        "id": "637",
+        "url": "h",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2016",
+        "pub": "Matheus Valadares",
+        "desc": "Survive and shoot at others while trying to keep your own tank alive!",
+        "source": "https://diep.io/"
+    },
+    {
+        "name": "Tony Hawk's Pro Skater",
+        "g": "tonyhawk",
+        "sys": "n64",
+        "id": "638",
+        "url": "c",
+        "badge": "N64",
+        "img": "png",
+        "mame": "false",
+        "year": "2000",
+        "pub": "Activision",
+        "desc": "Tony Hawk's Pro Skater is a skateboarding simulation in which you control a famous skate star around 3D environments. Each game area contains a plethora of objects like ramps, rails, and half-pipes which can be used to perform tricks. Each trick you perform earns you more points for your score.",
+        "source": "https://www.mobygames.com/game/3567/tony-hawks-pro-skater/"
+    },
+    {
+        "name": "Super Mario RPG: Legend of the Seven Stars",
+        "g": "mariorpg",
+        "sys": "snes",
+        "id": "639",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1996",
+        "pub": "Nintendo",
+        "desc": "Super Mario RPG is a console RPG starring none other than Nintendo's popular character Mario. This game starts off like almost every other Mario game, with Bowser kidnapping Princess Toadstool. However, when Mario goes to Bowser's Keep to save her, a giant sword made by the evil Smithy crashes into the castle and sends Mario, the Princess, and Bowser flying to separate parts of the world.",
+        "source": "https://www.mobygames.com/game/6692/super-mario-rpg-legend-of-the-seven-stars/"
+    },
+    {
+        "name": "Pokémon Pinball: Ruby & Sapphire",
+        "g": "pokepin",
+        "sys": "gba",
+        "id": "640",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2003",
+        "pub": "Pokémon Company",
+        "desc": "The pocket monsters are back on the pinball table, this time with the latest batch of creatures from the Ruby & Sapphire series on GBA joining the already established cast of characters. Your job is to not only use the Poke-ball as a pinball and rack up the biggest score on the table, but to also capture the Pokemon through a selection of mini-games and challenges during the usual pinball game. Simply hit the required areas of the board with the ball and you'll capture the monster available. There's 200 to find in total. Two different boards are on offer, each based on the two versions of Pokemon for GBA (i.e. Ruby and Sapphire). Each board represents a new challenge as well as which Pokemon you can catch during play.",
+        "source": "https://www.mobygames.com/game/10161/pokemon-pinball-ruby-sapphire/"
+    },
+    {
+        "name": "Mortal Kombat: Deadly Alliance",
+        "g": "mkdead",
+        "sys": "gba",
+        "id": "641",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2002",
+        "pub": "Midway",
+        "desc": "Mortal Kombat: Deadly Alliance on the Game Boy Advance adapts the console game of the same name to the portable platform, presenting a subset of characters, arenas and modes, with simplified controls and graphics in line with the handheld's capabilities.",
+        "source": "https://www.mobygames.com/game/68742/mortal-kombat-deadly-alliance/"
+    },
+    {
+        "name": "Pokemon HeartGold Version",
+        "g": "heartgold",
+        "sys": "nds",
+        "id": "642",
+        "url": "c",
+        "badge": "NDS",
+        "img": "png",
+        "mame": "false",
+        "year": "2009",
+        "pub": "Pokémon Company",
+        "desc": "Pokémon HeartGold is an enhanced remake of one of the second installments in the Pokémon Main RPG Series, Pokémon Gold.",
+        "source": "https://www.mobygames.com/game/44513/pokemon-heartgold-version/"
+    },
+    {
+        "name": "Tecmo Bowl Kickoff",
+        "g": "tbkickoff",
+        "sys": "nds",
+        "id": "643",
+        "url": "c",
+        "badge": "NDS",
+        "img": "png",
+        "mame": "false",
+        "year": "2008",
+        "pub": "Tecmo",
+        "desc": "Tecmo Bowl Kickoff is a remake of the classic NES titles of the early 90's and features a no-holds barred style of football. It also features cinematic animations for certain events during a game such as punts, field goals, interceptions, QB sacks, touchdowns, etc. Though it does not feature any license of professional teams or logos, it does model itself after the NFL with two conferences, the Wildcats Tecmo Conference (WTC) and the Bulldogs Tecmo Conference (BTC), with four divisions a piece (North, South, East & West).",
+        "source": "https://www.mobygames.com/game/39239/tecmo-bowl-kickoff/"
+    },
+    {
+        "name": "Slope v1.3",
+        "g": "slope-v13",
+        "sys": "u",
+        "id": "644",
+        "url": "u",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2014",
+        "pub": "Y8",
+        "desc": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard!",
+        "source": "https://www.y8.com/games/slope"
+    },
+    {
+        "name": "Wild Guns",
+        "g": "wildguns",
+        "sys": "snes",
+        "id": "645",
+        "url": "c",
+        "badge": "SNES",
+        "img": "png",
+        "mame": "false",
+        "year": "1994",
+        "pub": "Natsume Co.",
+        "desc": "KABOOM! Annie & Clint, two gunslingers, arrive at Carson City and get caught up in a gunfight. It's raining bullets and there are explosions everywhere. After an intense battle they enter the saloon where they dispose of every cowboy in sight while redecorating the interior. Our heroes flee the scene by climbing on the roof, but what's that sound? ... it's a HUGE robot! Wild Guns is a shooter with a western & Sci Fi theme. Gameplay is somewhat similar to the Time Crisis & House of the Dead games, with the exception that the game isn't played from a first-person perspective but from a third-person perspective. You control your on-screen character as well as the aiming crosshair (at the same time). Select either Clint (yes, inspired by Mr. Eastwood) or Annie and shoot down tons of enemies while dodging bullets and jumping over incoming rockets.",
+        "source": "https://www.mobygames.com/game/6786/wild-guns/"
+    },
+    {
+        "name": "Yu-Gi-Oh! GX: Duel Academy",
+        "g": "yugioh-gx",
+        "sys": "gba",
+        "id": "646",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2006",
+        "pub": "Konami",
+        "desc": "Climb the Duel Academy ranks to become the King of Games Academy Life Only the most skillful students can enter the high ranking dorms at the Duel Academy! Study hard!",
+        "source": "https://www.mobygames.com/game/184774/yu-gi-oh-gx-duel-academy/"
+    },
+    {
+        "name": "Evolution",
+        "g": "evolution",
+        "sys": "u",
+        "id": "647",
+        "url": "u",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2016",
+        "pub": "keiwando",
+        "desc": "Use joints, bones and muscles to build creatures that are only limited by your imagination. Watch how the combination of a neural network and a genetic algorithm can enable your creatures to 'learn' and improve at their given tasks all on their own.",
+        "source": "https://keiwan.itch.io/evolution"
+    },
+    {
+        "name": "Pokemon Emerald Rogue",
+        "g": "pokeemro",
+        "sys": "gba",
+        "id": "648",
+        "url": "c",
+        "badge": "GBA",
+        "img": "png",
+        "mame": "false",
+        "year": "2022",
+        "pub": "Pokabbie",
+        "desc": "Ever wondered what Pokemon might look like as a Roguelike! Pokemon Emerald Rogue is my take on it!",
+        "source": "https://www.pokecommunity.com/showthread.php?t=479406"
+    },
+    {
+        "name": "webosu!",
+        "g": "webosu",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly93ZWJvc3Uub25saW5lLw==",
+        "sys": "h",
+        "id": "649",
+        "url": "h",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2021",
+        "pub": "BlaNKtext",
+        "desc": "The unofficial osu! web port with a huge pool of beatmaps",
+        "source": "https://github.com/BlaNKtext/webosu/"
+    },
+    {
+        "name": "Super Sidekicks 3: The Next Glory",
+        "g": "ssideki3",
+        "sys": "arcade",
+        "id": "650",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1995",
+        "pub": "SNK",
+        "desc": "Super Sidekicks 3: The Next Glory is an arcade style soccer/football game, continuation of Super Sidekicks 2: The World Championship. The game features 64 national teams (across 8 regions.) The title plays like a typical sidescrolling arcade soccer game, complete with stylized graphics and accessible gameplay.",
+        "source": "https://www.mobygames.com/game/68825/super-sidekicks-3-the-next-glory/"
+    },
+    {
+        "name": "Punch-Out!!",
+        "g": "punchout",
+        "sys": "arcade",
+        "id": "651",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1984",
+        "pub": "Nintendo",
+        "desc": "Punch-Out!! is a humorous boxing game that started Nintendo's acclaimed game series. You take the role of a boxer who participates in a boxing tournament. You can strike with left or right hand, deliver uppercuts and hooks, dodge in either direction and block the blows. Unlike the similarly titled NES game, in the Arcade version the protagonist is shown directly from behind as a wireframe. There are six opponents to beat and when the last opponent is defeated the game loops. The arcade cabinet is notable for having two monitors one above another: the upper monitor is used to display game statistics, while the lower one shows the actual boxing ring.",
+        "source": "https://www.mobygames.com/game/64010/punch-out/"
+    },
+    {
+        "name": "Super Punch-Out!!",
+        "g": "spnchout",
+        "sys": "arcade",
+        "id": "652",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1984",
+        "pub": "Nintendo",
+        "desc": "Super Punch-Out!! is an immediate follow-up to the Arcade Punch-Out!! released the same year. Once again you control a green-haired boxer viewed from behind as a wireframe. The gameplay is generally the same as the predecessor, but there's a slight change in the rules, the duck move is introduced and the opponents are completely different. Like the previous game, the arcade cabinet has two monitors one above another: the upper monitor is used to display game statistics, while the lower one shows the actual boxing ring.",
+        "source": "https://www.mobygames.com/game/64012/super-punch-out/"
+    },
+    {
+        "name": "Super Puzzle Fighter II Turbo",
+        "g": "spf2t",
+        "sys": "arcade",
+        "id": "653",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1996",
+        "pub": "Capcom",
+        "desc": "A Tetris-like puzzle game featuring popular characters from many Capcom games. Colored gems fall from the top of the screen in pairs, but this time lining up those of the same color is not enough. To break the gems and punish your opponent with counter gems you have to place a crash gem of the same color next to the gems. If you make a block of gems of the same color they'll fuse, forming a power gem. Breaking a power gem sends more counter gems to your opponent than breaking the same amount of gems in some other configuration. But the ultimate attack is breaking power gems in chain.",
+        "source": "https://mobygames.com/game/3102/super-puzzle-fighter-ii-turbo/"
+    },
+    {
+        "name": "Super Volley ball",
+        "g": "svolley",
+        "sys": "arcade",
+        "id": "654",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1989",
+        "pub": "Video System Co.",
+        "desc": "SUPER Volley ball is an indoor volleyball game for one or two players. The single player mode offers two game options: normal game and World League. Choosing normal game pits the player against the computer in a single game. Choosing World League pits the player against all other teams available. A password save is available in this mode.",
+        "source": "https://www.mobygames.com/game/42498/super-volley-ball/"
+    },
+    {
+        "name": "Arkanoid",
+        "g": "arkanoid",
+        "sys": "arcade",
+        "id": "655",
+        "url": "c",
+        "badge": "ARCADE",
+        "img": "png",
+        "mame": "false",
+        "year": "1986",
+        "pub": "Taito",
+        "desc": "The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.",
+        "source": "https://www.mobygames.com/game/1087/arkanoid"
+    },
+    {
+        "name": "draw.uy",
+        "g": "drawuy",
+        "gameurl": "https://yandhi.herokuapp.com/trgr.html?url=aHR0cHM6Ly9kcmF3LnV5Lw==",
+        "sys": "h",
+        "id": "656",
+        "url": "h",
+        "badge": "HTML5",
+        "img": "png",
+        "mame": "false",
+        "year": "2015",
+        "pub": "draw.uy",
+        "desc": "Draw with friends is an online collaborative drawing canvas. A multi-player game for making friends while drawing together",
+        "source": "https://draw.uy/"
     }
 ]

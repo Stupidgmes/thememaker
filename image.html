@@ -1,4 +1,3 @@
-
 <!-- 
           _____                    _____                _____                    _____          
          /\    \                  /\    \              /\    \                  /\    \         
@@ -30,38 +29,48 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="imadejptr" property="og:title">
-    <meta content="The 2nd Iteration of JPTR. With 600+ games, you won't
-              have a boring time here" property="og:description">
+    <meta content="imadejptr thememaker!" property="og:description">
     <meta http-equiv="Access-Control-Allow-Origin" content="*">
     <link rel="stylesheet" href="https://imadejptr.github.io/thememaker/assets/css/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://imadejptr.github.io/thememaker/assets/img/paint.png">
     <title>IMJ Theme Maker</title>
 </head>
 
 <body>
     <div class="header">
-        <a href="https://imadejptr.github.io/thememaker/"><- Go Back Home</a>
-                <h2>Welcome to the IMJ Theme Maker!</h2>
-                <input class="color" type="text" id="background" name="background" value=""
-                    placeholder="Ex: https://i.imgur.com/ba5fv88.jpeg">
-                <label for="background">Background</label> |
-                <input class="color" type="color" id="theme" name="theme" value="#d98e73">
-                <label for="theme">Theme</label> |
-                <input class="color" type="color" id="theme-secondary" name="theme-secondary" value="#a0614b">
-                <label for="theme-secondary">Theme-Secondary</label> |
-                <input class="color" type="color" id="text" name="text" value="#ffffff">
-                <label for="text">Text</label> |
-                <input class="color" type="color" id="text-secondary" name="text-secondary" value="#ffffff">
-                <label for="text-secondary">Text-Secondary</label> |
-                <input class="color" type="color" id="box" name="box" value="#a0614b">
-                <label for="box">Box</label>
-                <br>
-                <textarea id="result"></textarea>
-                <br>
-                <button onclick="copy()" id="copy">Copy</button>
-                <button id="form">Submit Theme!</button>
+        <a href="https://imadejptr.github.io/thememaker/index.html">Go Back Home</a>
+        <h2>Welcome to the IMJ Theme Maker!</h2>
+        <label for="background">Background</label>
+        <input class="color" type="text" id="background" name="background"
+            value="https://cdn.glitch.me/161fba10-08d4-4007-b3c4-cf3478168729/bg-galaxy3-6.png" style="width: 250px;">
+        <br>
+        <label for="theme">Theme</label>
+        <input class="color" type="text" id="theme" name="theme" value="#d98e73">
+        <br>
+        <label for="theme-secondary">Theme-Secondary</label>
+        <input class="color" type="text" id="theme-secondary" name="theme-secondary" value="#a0614b">
+        <br>
+        <label for="text">Text</label>
+        <br>
+        <input class="color" type="text" id="text" name="text" value="#ffffff">
+        <br>
+        <label for="text-secondary">Text-Secondary</label>
+        <input class="color" type="text" id="text-secondary" name="text-secondary" value="#ffffff">
+        <br>
+        <label for="box">Box</label>
+        <input class="color" type="text" id="box" name="box" value="#a0614b">
+        <br>
+        <button id="form">Submit Theme!</button>
+        <br>
+        <h4>Current Theme Code:</h4>
+        <textarea id="code"></textarea>
+        <button onclick="copy()">Copy Code</button>
+        <h4>Import Theme Code:</h4>
+        <textarea id="impo"></textarea>
+        <button onclick="genCode()" type="text">Load Code</button>
     </div>
     <abbr title="made by @marcopetrildesigns on ig <3"><img
-            src="https://storage.googleapis.com/imadejptr-v2/thumb/logo/logo.png" width="10%"
+            src="https://cdn.glitch.global/a65741ca-e4a3-4b9c-9f87-1568672f0160/logo.png" width="10%"
             style="display: block; margin-left: auto; margin-right: auto;" class="logo-main"></abbr>
     <ul id="nav">
         <li><a href="#">Home</a></li>
@@ -69,6 +78,7 @@
         <li><a href="#">Apps</a></li>
         <li><a href="#">Settings</a></li>
         <li><a href="#">Partners</a></li>
+        <li><a href="#" target="_blank">Suggestions</a></li>
         <li><a href="#">Random</a></li>
     </ul>
     <center>
@@ -77,10 +87,8 @@
                 Bros</span>
             <h1 id="gameTitle">Super Mario Bros <span class="f-badge">NES</span></h1>
             <iframe width="100%" height="100%" scrolling="no" frameborder="0"
-                style="width:75%;height:800px;margin:0 auto;max-width:100%;text-align:center;overflow:hidden;" src="game.html"
-                allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated"
-                allowtransparency="true" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"
-                msallowfullscreen="true" id="frame"></iframe>
+                style="width:75%;height:800px;margin:0 auto;max-width:100%;text-align:center;overflow:hidden;"
+                src="https://imadejptr.github.io/thememaker/game.html" id="frame"></iframe>
             <h1>Game Information:</h1>
             <hr>
             <h3>Publisher:</h3>
@@ -99,56 +107,20 @@
                 More Games
             </h1>
             <hr>
-            <ul class="list" id="gr">
-            </ul>
+            <ul class="list" id="gr"></ul>
         </div>
         <p class="social-footer-menu">
-            <a class="f-badge" style="text-decoration: none;" href="/about.html">About</a> // <a class="f-badge"
-                style="text-decoration: none;" href="/privacy.html">Privacy Policy</a> // <a class="f-badge"
-                style="text-decoration: none;" href="/terms.html">Terms &amp; Conditions</a> // <a class="f-badge"
-                style="text-decoration: none;" href="/logs.html">Logs</a> // <a class="f-badge"
-                style="text-decoration: none;" href="/dmca.html">DMCA</a> // <a class="f-badge"
-                style="text-decoration: none;" href="/sites.html">Mirror
+            <a class="f-badge" style="text-decoration: none;" href="#">About</a> // <a class="f-badge"
+                style="text-decoration: none;" href="#">Privacy Policy</a> // <a class="f-badge"
+                style="text-decoration: none;" href="#">Terms &amp; Conditions</a> // <a class="f-badge"
+                style="text-decoration: none;" href="#">Logs</a> // <a class="f-badge" style="text-decoration: none;"
+                href="#">DMCA</a> // <a class="f-badge" style="text-decoration: none;" href="#">Mirror
                 Sites</a> //
-            <a>All games are made from other publishers</a> // <span>Copyright © 2022-2023 imadejptr</span>
+            <a>All games are made from other publishers</a> // <span>imadejptr 2022-2024</span>
         </p>
     </center>
-    <script>
-        let ta = document.getElementById("result");
-        let form = document.getElementById("form");
-        document.body.addEventListener("change", () => {
-            let bg = document.getElementById("background").value;
-            let theme = document.getElementById("theme").value;
-            let theme2 = document.getElementById("theme-secondary").value;
-            let txt = document.getElementById("text").value;
-            let txt2 = document.getElementById("text-secondary").value;
-            let bx = document.getElementById("box").value;
-
-            let r = document.querySelector(":root");
-            r.style.setProperty('--background', "url('" + bg + "')");
-            r.style.setProperty('--theme', theme);
-            r.style.setProperty('--theme-secondary', theme2);
-            r.style.setProperty('--text', txt);
-            r.style.setProperty('--text-secondary', txt2);
-            r.style.setProperty('--box', bx);
-
-            let res = "--background: url('" + bg +  "');--theme: " + theme + ";\n--theme-secondary: " + theme2 + ";\n--text: " + txt + ";\n--text-secondary: " + txt2 + ";\n--box: " + bx + ";";
-            ta.innerText = res;
-        })
-
-        function copy() {
-            ta.select();
-            ta.setSelectionRange(0, 99999);
-            navigator.clipboard.writeText(ta.value);
-            alert("Text Copied! Make sure to submit it to the form when you can :)");
-        }
-
-        form.onclick = () => {
-            window.open('https://forms.gle/AKjjMSNfPWNPdP9g9', "myWindow", 'width=800,height=600');
-        };
-    </script>
-
-    <script src="https://imadejptr.github.io/thememaker/assets/js/main.js"></script>
+    <script src="https://imadejptr.github.io/thememaker/assets/js/lc_color_picker.js"></script>
+    <script src="https://imadejptr.github.io/thememaker/assets/js/image.js"></script>
     <script src="https://imadejptr.github.io/thememaker/assets/js/rand.js"></script>
 
 </body>

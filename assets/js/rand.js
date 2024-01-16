@@ -1,3 +1,9 @@
+/**
+ * rand.js
+ * @description - this randomly generates 15 games whenever a page is loaded
+ * This code was taken from emugalaxy, and was a pain in the ass to use when I was stupidly had to change every number meticulously.
+ */
+
 fetch("https://imadejptr.github.io/thememaker/assets/json/gs.json")
   .then(function (response) {
     return response.json();
@@ -10,15 +16,16 @@ fetch("https://imadejptr.github.io/thememaker/assets/json/gs.json")
   });
 
 function pp(data) {
-  var mainContainer = document.querySelector('#gr');
-  var ix, ixLen, rand;
-  for (ix = 576, ixLen = 605; ix < ixLen; ix++) {
+  let mainContainer = document.querySelector('#gr');
+  let ix, ixLen, rand;
+  // the reason why its 29 is because it took a lot of trial and error to get it to show 15 games.
+  for (ix = data.length - 29, ixLen = data.length; ix < ixLen; ix++) {
     rand = Math.ceil(Math.random() * ixLen) - 1;
-    var div = document.createElement("li");
+    let div = document.createElement("li");
     div.innerHTML =
       "<a href=/go.html?id=" +
       data[rand].id +
-      ' class="box"><img src="https://storage.googleapis.com/imadejptr-v2/thumb/' +
+      ' class="box"><img src="https://cdn.glitch.global/a65741ca-e4a3-4b9c-9f87-1568672f0160/' +
       data[rand].id +
       '.' +
       data[rand].img +

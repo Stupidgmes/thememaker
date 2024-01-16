@@ -1,4 +1,4 @@
-const data = fetch("/assets/json/gs.json")
+const data = fetch("https://imadejptr.github.io/thememaker/assets/json/gs.json")
     .then(function (response) {
         return response.json();
     })
